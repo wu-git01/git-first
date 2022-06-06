@@ -1,2 +1,3 @@
-asdf
-asdff
+public static void main(String args[]){
+	sout(fenzhi);
+}
