@@ -4,4 +4,5 @@ public static void main(String args[]){
 	sout(fenzhi1);
 	sout(fenzhi2);
 	sout(https);
+	sout(penggediannao);
 }
