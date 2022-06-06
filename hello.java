@@ -1,6 +1,6 @@
 public static void main(String args[]){
 	sout(123);
 	sout(123456);
-	sout(fenzhia);
-	sout(fenzhi2a);
+	sout(fenzhi1);
+	sout(fenzhi2);
 }
